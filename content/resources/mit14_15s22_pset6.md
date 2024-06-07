@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/14-15-networks-spring-2022/mit14_15s22_pset6.pdf
+file_size: 189441
 file_type: application/pdf
 image_metadata:
   caption: ''

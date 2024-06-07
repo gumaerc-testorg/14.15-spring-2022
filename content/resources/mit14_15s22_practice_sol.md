@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/14-15-networks-spring-2022/mit14_15s22_practice_sol.pdf
+file_size: 273473
 file_type: application/pdf
 image_metadata:
   caption: ''

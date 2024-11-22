@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/14-15-networks-spring-2022/mit14_15s22_social_sol.pdf
+file: /ol-ocw-studio-app/courses/14-15-networks-spring-2022/mit14_15s22_social_sol.pdf
 file_size: 297564
 file_type: application/pdf
 image_metadata:

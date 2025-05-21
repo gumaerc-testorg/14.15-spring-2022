@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/14-15-networks-spring-2022/mit14_15s22_midterm_sol.pdf
+file: courses/networks/mit14_15s22_midterm_sol.pdf
 file_size: 137141
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/networks/mit14_15s22_midterm_prac.pdf
+file: /ol-ocw-studio-app/courses/14-15-networks-spring-2022/mit14_15s22_midterm_prac.pdf
 file_size: 99747
 file_type: application/pdf
 image_metadata:

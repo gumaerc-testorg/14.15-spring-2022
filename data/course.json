@@ -41,10 +41,11 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Online Textbook",
+    "Open Textbooks",
     "Problem Sets",
     "Exams"
   ],
   "site_uid": "6dae7864-54d0-46e7-8c3c-f49ffa0ab264",
-  "site_short_id": "14.15-spring-2022"
+  "site_short_id": "14.15-spring-2022",
+  "site_url_path": "courses/14-15-networks-spring-2022"
 }

@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/networks/mit14_15s22_pset3.pdf
+file: /ol-ocw-studio-app/courses/14-15-networks-spring-2022/mit14_15s22_pset3.pdf
 file_size: 218325
 file_type: application/pdf
 image_metadata:

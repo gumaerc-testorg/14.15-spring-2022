@@ -8,7 +8,7 @@ uid: 409c7b21-9bdc-4cd3-8fb5-02d7d174d9c8
 Readings are assigned from the following two textbooks. See suggested additional readings.
 
 \[EK\] = David Easley and Jon Kleinberg, *Networks, Crowds, and Markets: Reasoning about a Highly Connected World*, Cambridge University Press. ISBN: 9780521195331.  
-An excellent textbook at about the level of our course; we will however go somewhat deeper on some topics. View the {{% resource_link "c4aaff08-c2e4-4ca8-b85f-b03437a27717" "full text online" %}}.
+An excellent textbook at about the level of our course; we will however go somewhat deeper on some topics. View the [full text online](https://www.cs.cornell.edu/home/kleinber/networks-book/).
 
 \[Jackson\] = Matthew Jackson, *Social and Economic Networks*, Princeton University Press. ISBN: 9780691148205.  
 An excellent textbook at a somewhat more advanced level.
